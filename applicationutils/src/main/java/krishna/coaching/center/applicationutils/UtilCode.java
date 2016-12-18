@@ -3,7 +3,7 @@ package krishna.coaching.center.applicationutils;
 import org.apache.commons.lang3.StringUtils;
 
 public class UtilCode {
-
+//2nd commit
 	public boolean stringChecks(){
 		
 		String name = "";
